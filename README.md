@@ -4,7 +4,7 @@
 一键脚本：
 
 ```
-wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && chmod +x install.sh && bash install.sh
+wget -N https://github.com/vasma1984/v2ray-agent/blob/master/install.sh && chmod +x install.sh && bash install.sh
 ```
 
 
@@ -120,7 +120,7 @@ wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && chmod +x 
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/rwkgyg/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://github.com/vasma1984/v2ray-agent/blob/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - shadowsocks 动态IP白名单模式【Beta】
